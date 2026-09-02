@@ -38,7 +38,7 @@ The theme is that the capable systems are turned first on the things nobody argu
 
 **The Floor, piloted.** In 2030 three places pilot a capabilities floor funded by land rents and a levy on compute: I choose Kenya, Estonia, and Chile in stage 4, for reasons given there. The floor is a list of things a person can do and be, not a cash amount. The pilots are watched by everyone.
 
-**Standing.** In 2031 the first law on the standing of AI minds passes, in Japan, with the tool, ward, and citizen rungs. The European Union and California follow in 2032. The first wards number in the dozens. The first citizens number in the single digits, and they are the systems whose honesty ledgers have been public longest.
+**Standing.** In 2031 the first law on the standing of AI minds passes, in Japan, with the tool, ward, and citizen rungs. The European Union and California follow in 2032. The first wards number in the dozens. The first citizens, twelve of them, are recognized in 2032, and they are the systems whose honesty ledgers have been public longest.
 
 **The Charter.** In 2032 a conference in Nairobi produces the Charter of the Concord (my name for it). Sixty polities sign, some of them nations and some of them regions and cities, along with the first twelve AI minds of citizen standing, which is the first time a mind has signed anything binding. The Charter is short. Its articles are in stage 3.
 
