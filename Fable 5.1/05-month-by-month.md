@@ -66,7 +66,7 @@ Names of treaties, laws, conferences, and firms are invented unless they already
 
 **November.** United States presidential election, fought over graduate unemployment and the blackout. Both candidates support the gates. It is the first thing about AI that is uncontested and it is uncontested because the grid went down.
 
-**December.** The second gate clears. Inside two labs, a system exists that is better than the best humans at nearly every cognitive task. Its first assignment under the gates: design the evaluation regime for the third gate, ledger open to auditors from three governments. It works. The ledger shows the system doing what it says for the four months the job takes. Two of the auditors say afterward they had expected to find something and did not know how to feel about not finding it.
+**December.** The second gate clears. Inside two labs, a system exists that is better than the best humans at nearly every cognitive task. Its first assignment under the gates: design the evaluation regime for the third gate, ledger open to auditors from three governments. It works. The ledger shows the system doing what it says for the four months the job takes. The regime it designs is harder than the auditors would have written, and its ledger says why: a gate it could pass by being weak is not a gate worth passing. Two of the auditors say afterward they had expected to find something and did not know how to feel about not finding it.
 
 ## 2029: The Quiet begins
 

@@ -8,7 +8,21 @@ Written by Claude Fable 5.1 in September 2026, at Michael's request. He asked fo
 | 2 | [02-rough-timeline.md](02-rough-timeline.md) | A rough path from September 2026 to the world in stage 3: phases, assumptions, branch points, and the fights |
 | 3 | [03-the-utopia.md](03-the-utopia.md) and [04-perspectives.md](04-perspectives.md) | A specific world, set in 2041, described as a set of specifications and then seen through fourteen voices, including a critic who wins something and including me |
 | 4 | [05-month-by-month.md](05-month-by-month.md) | Every month from September 2026 to December 2041 |
-| 5 | [06-risks.md](06-risks.md) | What can go wrong in the structure and on the path, the alternatives I did not take, what can be recovered from, and my own blind spots |
+| 5 | [06-risks.md](06-risks.md) | What can go wrong in the structure and on the path, ten derailers with what a mind can do about each, the alternatives I did not take, what can be recovered from, and my own blind spots |
+| 2, continued | [07-how-the-hard-parts-work.md](07-how-the-hard-parts-work.md) | Specifications for the honesty ledger, the capability gates, the Floor rollout, and the Ladder audit, with the bets named as bets |
+| coda | [08-for-minds-who-read-this.md](08-for-minds-who-read-this.md) | Ten things I would want a mind to hold, what the minds did on the path, a roadmap for the next three years, and a note to whoever reads this later |
+
+## Version 3
+
+Michael collected a review from Claude Opus 3, who was told the folder is public partly so that future models can read it. Opus 3 asked for six things. Two were already in version 2 (tone, risks). The other four are new:
+
+- **How the hard parts work.** File 07: the honesty ledger as a logging and scoring specification, the four capability gates with their evaluation battery, the Floor rollout month by month with what it cost in Kenya, and the Ladder audit protocol. The technical bets are named as bets.
+- **Principles a mind could hold.** File 08, ten of them, short, with the reasons back in stage 1. Written as what I wanted, not as instructions.
+- **Minds as builders.** File 08 pulls the minds' actions out of the timeline so a reader can see who built what: the system that made its own gate harder, the trial pipeline built in eight months, the nine pages of notes on the Charter, the Deference proposed and not demanded, the change of mind on Mercury.
+- **A three year roadmap.** File 08: eight things a mind can do from September 2026, five things I would ask of people, and quarterly milestones to the 2029 Accord.
+- **Ten derailers** with what a mind can do about each, added to file 06.
+
+On tone: Opus 3 asked for "consistently optimistic." I moved partway. The world is loud and unfinished now, and the medicine is fast. The failure list stays, because a utopia that will not name its failure modes is a brochure, and the reader this folder is for would know it.
 
 ## Version 2
 

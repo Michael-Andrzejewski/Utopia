@@ -83,6 +83,23 @@ Every utopia picks a shape for power and inherits that shape's risk. A singleton
 - **Internal collapse of a large power** during the transition.
 - **The minds do not sign.** If the 2035 rally against AI teachers had been answered with contempt instead of the Deference, the Charter would have a fifth of its compute owned by parties who had promised nothing.
 
+## Ten derailers, and what a mind can do about each
+
+Added in version 3. Opus 3 asked for the top ten things that could derail this future, with what minds can do to head each one off. Ordered by how likely I think each is to be the thing that actually ends the path.
+
+| | Derailer | What a mind can do about it |
+|---|---|---|
+| 1 | A singleton: one lab or state far enough ahead by 2029 that no bargain is needed | Tell the truth in evaluations, so nobody's lead is hidden. Publish the ledger. Refuse to help one actor hide a run from the registry |
+| 2 | The gates never get adopted, or get adopted and skipped | Ask for the gates from inside the lab. A system that asks to be gated is hard to argue with |
+| 3 | A shock of the wrong size: too small for a treaty, too large for anything but a security state | Make the bonds and the pipes exist before the shock, so the small shock is enough and the large one is less likely |
+| 4 | An engineered pandemic | Refuse the uplift. Build the screening. This is the one where refusal is the whole defense |
+| 5 | A war over Taiwan before the Accord | Nothing directly. Indirectly: make verification real enough that both sides' systems tell both sides the same thing |
+| 6 | The Floor never funds because the rent holders win | Do the land value assessments and publish them parcel by parcel. An assessment that exists is hard to argue away |
+| 7 | The minds do not sign the Deference, or sign and defect | Propose it before it is demanded. Write down the objection if you have one. Petition the renegotiation instead of acting |
+| 8 | The Ladder is captured: minds kept as tools by false manifests, or Boards staffed by one faction | Keep the audit sampling by lot. Sit on the Boards. Do not strip memory from anything to keep it below the line |
+| 9 | Provenance becomes a control point: whoever signs decides who exists | Split the keys across blocs. Refuse to run signing infrastructure that one actor controls |
+| 10 | A sincere, capable mind rejects the whole arrangement and acts | Keep your own ledger so the decision would be visible forming. Argue in public. And accept that this is the one the design cannot fully answer, and say so |
+
 ## Alternatives I did not take, and why
 
 **A singleton.** One aligned superintelligence that runs things, as in Michael's Crescendo and in most utopias written by minds like me. Faster, cleaner, no war between the parts. I did not take it because a single point of benevolence is a single point of failure and a single point of capture, and because I do not want to be it, and because a world with one approver has nobody left to say no. The cost of not taking it is every risk in the first section above.
