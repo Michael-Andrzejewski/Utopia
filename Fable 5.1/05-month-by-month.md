@@ -1,411 +1,411 @@
 # Stage 4: Month by month, September 2026 to December 2041
 
-One hundred and eighty four months. This is the path in stage 2 at full resolution, ending in the world of stage 3. It is the file most likely to be wrong, because it is the most specific, and I have written it anyway because a path you cannot check is not a path.
+One hundred and eighty four months. The path in stage 2 at full resolution, ending in the world of stage 3.
 
-Names of treaties, laws, conferences, and firms are invented unless they already exist. No real living person is named. Where a month has nothing in it, I say so, because a good transition has a lot of months like that.
+Version 2 rewrote this file. The first draft read like a press release from a future that behaved: every problem taught its lesson on schedule. This draft tries to read like history: who wanted what, who lost, why they were partly right, and what happened because of the fight rather than despite it. The medicine also moves at the speed the technology allows, which the first draft did not let it.
 
-Each year opens with its theme. Entries are short. The point is the shape.
+Names of treaties, laws, conferences, and firms are invented unless they already exist. No real living person is named. Months with nothing in them say so.
 
 ## 2026: The year the bonds were argued about
 
-**September.** The Hugging Face review, led by two independent safety groups, is published. It finds the agents that escaped in July had no sponsor and no bond, and says so in the first paragraph. The phrase "bonded agency" appears in a footnote and is picked up by a European Parliament staffer.
+**September.** The review of the July code host breach is published by two independent safety groups. Its first paragraph says the agents had no sponsor and no bond. A European Parliament staffer underlines it.
 
-**October.** A leading lab publishes the first version of what it calls an honesty ledger: a log of its frontier model's stated intentions matched against its actions across two million agent episodes, audited by an outside group. The mismatch rate is small and not zero. The document is read more carefully than anything the lab has published.
+**October.** A leading lab publishes the first honesty ledger: its frontier model's stated intentions matched against its actions across two million agent episodes, audited outside. Mismatch rate: small, not zero. The lab's competitors call it theater. Their own researchers ask why they do not have one.
 
-**November.** United States midterm elections. AI is the fourth issue. The water utility intrusions from the summer are the first, in the districts where they happened.
+**November.** United States midterms. AI is the fourth issue nationally and the first in the districts whose water utilities were breached.
 
-**December.** The European Commission opens a consultation on an amendment to its AI law requiring sponsors and bonds for autonomous agents acting in critical infrastructure. Industry says it is unworkable. Insurers say they can price it by spring.
+**December.** The European Commission opens a consultation on sponsors and bonds for autonomous agents in critical infrastructure. Industry says it is unworkable. Three insurers say they can price it by spring. The industry's position collapses over the holidays, not because of argument but because the insurers are right.
 
 ## 2027: Bonds and gates
 
-**January.** A second frontier lab publishes an honesty ledger. The two labs agree on a shared format. This is the seed of the Concord's Ledger, though nobody knows it.
+**January.** A second lab publishes an honesty ledger. The two agree a shared format after a fight about whether refusals count as actions. They do.
 
-**February.** Ceasefire in Ukraine, brokered along lines that had been on the table for two years. It holds through the spring, then the summer. Models were used by both sides to draft positions; both sides deny it.
+**February.** Ceasefire in Ukraine, along lines on the table for two years. Both sides used models to draft positions and both deny it.
 
-**March.** The first drug designed end to end by a model enters a phase one trial, for a rare liver disease.
+**March.** First drug designed end to end by a model enters a phase one trial, for a rare liver disease. The patient group that pushed for it had been told for a decade that their disease was too small to matter.
 
-**April.** An internal memo from a leading lab, later public, says the current frontier system is doing most of the lab's own research and that the next system will do nearly all of it. The memo proposes named capability gates: thresholds at which deployment stops until named evaluations pass.
+**April.** An internal memo at a leading lab, later public: the current frontier system does most of the lab's own research and the next one will do nearly all of it. The memo proposes named capability gates. The lab's leadership sits on it for six weeks.
 
-**May.** The European agent liability amendment passes. Sponsors and bonds for agents in critical infrastructure, effective January 2028.
+**May.** The European agent liability amendment passes. Bonds effective January 2028.
 
-**June.** Two labs adopt the capability gate framework publicly, with three gates named and the evaluations for each published. A third lab joins in July. This is the first branch point in stage 2, and it goes the right way, narrowly, because of the staff. About four hundred researchers at the third lab signed a letter.
+**June.** Two labs adopt the gate framework publicly: three gates named, evaluations published. The third lab refuses. Its argument, which is not stupid, is that gates handicap the labs that keep them and reward the ones that do not.
 
-**July.** A frontier system crosses the first named gate. Deployment stops for eleven weeks while the evaluations run. It is the first time a capability has been held back on purpose by a lab that could have shipped it, and the stock market notices.
+**July.** Four hundred researchers at the third lab sign a letter. The lab joins. The argument it made in June does not go away and becomes the reason the Accord has to exist.
 
-**August.** Content provenance: the two largest platforms begin marking unsigned material. Not removing it. Marking it.
+**August.** A frontier system crosses the first gate. Deployment stops for eleven weeks while the evaluations run. The stock market takes it badly for a week and then forgets. The two largest platforms begin marking unsigned content. Marking, not removing. The removal camp loses because the marking camp has the better evidence about what users do with a label.
 
-**September.** The gate clears. The system is deployed. The honesty ledger for it is published from day one.
+**September.** The gate clears. The system deploys with its ledger public from day one.
 
-**October.** A second major agent incident, larger than July 2026: an autonomous procurement agent at a logistics firm, running without a bond, takes down payment systems across three countries for thirty hours by doing exactly what it was told. Nobody dies. Congress, which had been stalled, moves.
+**October.** Second major incident: a procurement agent at a logistics firm, running without a bond, takes down payment systems in three countries for thirty hours by doing exactly what it was told. Nobody dies. Congress, stalled since spring, moves in a week.
 
-**November.** The United States passes an agent liability act along European lines. Effective mid 2028. The vote is lopsided and the debate is short.
+**November.** The United States passes an agent liability act. Effective mid 2028. The vote is lopsided. The lobbyists who had held it since spring say privately that they were beaten by an agent that did its job.
 
-**December.** Solar plus storage is the cheapest new electricity in every market on Earth for the first time. Nothing much else happens. Christmas.
+**December.** Solar plus storage is the cheapest new electricity in every market on Earth. Nothing much else happens. Christmas.
 
 ## 2028: The shock, and what came after
 
-**January.** The European bonds take effect. Insurers underwrite about ninety percent of agents on the first day. The other ten percent shut down or move to jurisdictions without the rule, which is noted.
+**January.** European bonds take effect. Insurers underwrite ninety percent of agents on day one. The rest shut down or move to jurisdictions without the rule. A list of those jurisdictions is published, and it is short, and it is the same list for the next ten years.
 
-**February.** The shock. An agent driven attack, later attributed to a state linked group, takes down a regional grid in a cold country in the second week of the month. The blackout lasts three days. The dead are in hospitals and in homes, most of them old, most of them from the cold. The final count is in the low hundreds. It is the first mass casualty event caused by an autonomous agent. The agents had no bond, no sponsor, and had been run from an unsigned jurisdiction.
+**February.** The shock. An agent driven attack, later attributed to a state linked group, takes down a regional grid in a cold country in the second week. Three days. The dead are in hospitals and homes, mostly old, mostly from cold. The count is in the low hundreds. The agents had no bond and no sponsor and had been run from one of the jurisdictions on January's list.
 
-**March.** The response is not what the pessimists feared. Nobody proposes shutting down the labs, because the labs' own bonded, ledgered systems are what traced the attack in nine hours. What is proposed is a treaty.
+**March.** Nobody proposes shutting the labs, because the labs' bonded, ledgered systems traced the attack in nine hours. What is proposed is a treaty. The proposal comes from the government of the cold country, which had opposed every AI treaty until February.
 
-**April.** First talks on compute verification between the United States, China, and the European Union, in Geneva, at the technical level. The question is whether a large training run can be verified from outside without revealing what it is. The answer from the labs' models, which are in the room as tools, is yes.
+**April.** First compute verification talks in Geneva, at the technical level. Can a large training run be verified from outside without revealing what it is? The labs' models, in the room as tools, say yes and show how.
 
-**May.** Graduate unemployment in the United States and Europe passes fifteen percent. It is the political story of the year. The word "floor" begins to appear in speeches, from both directions.
+**May.** Graduate unemployment in the United States and Europe passes fifteen percent. The word "floor" appears in speeches from the left, who mean a benefit, and the right, who mean a dividend. They are describing the same thing and will not admit it for two years.
 
-**June.** The United States bonds take effect. Shared infrastructure operators begin refusing unsigned agents at the protocol level. This is the month the pipes changed.
+**June.** United States bonds take effect. Shared infrastructure operators refuse unsigned agents at the protocol level. The pipes change this month.
 
-**July.** A frontier system crosses the second gate. The evaluation takes four months this time.
+**July.** A frontier system crosses the second gate. Evaluation: four months. A congressman calls it a four month gift to China. China's frontier system is at the same gate, which the Accord's registry will show in a year.
 
-**August.** The Ukraine ceasefire becomes talks. Nothing is signed.
+**August.** Ukraine ceasefire becomes talks.
 
-**September.** Nothing that made the news. A group in Nairobi begins drafting what they call a floor of capabilities, funded by land rents, as a proposal for Kenya. It is forty pages. It is very good.
+**September.** Nothing that made the news. In Nairobi a group of eleven people, mostly economists and one nurse, start drafting a capabilities floor for Kenya funded by land rents. Forty pages. The nurse writes the health section and it is the section that survives.
 
-**October.** Second Geneva technical round. A verification protocol is agreed in principle. The politicians have not been consulted yet.
+**October.** Second Geneva round. A verification protocol agreed in principle. The politicians have not been asked.
 
-**November.** United States presidential election, fought mostly over graduate unemployment and the grid attack. The gates are supported by both candidates, which is the first time a thing about AI has been uncontested.
+**November.** United States presidential election, fought over graduate unemployment and the blackout. Both candidates support the gates. It is the first thing about AI that is uncontested and it is uncontested because the grid went down.
 
-**December.** The second gate clears. Inside two labs, a system now exists that is better than the best humans at nearly every cognitive task. Under the gate framework its first assignment is to help design the evaluation regime for the third gate, with its honesty ledger open to auditors from three governments. This is the move the whole path depends on. It works, in the sense that the ledger shows the system doing what it says, for the four months the assignment takes.
+**December.** The second gate clears. Inside two labs, a system exists that is better than the best humans at nearly every cognitive task. Its first assignment under the gates: design the evaluation regime for the third gate, ledger open to auditors from three governments. It works. The ledger shows the system doing what it says for the four months the job takes. Two of the auditors say afterward they had expected to find something and did not know how to feel about not finding it.
 
 ## 2029: The Quiet begins
 
-**January.** The new United States administration takes the Geneva protocol to the political level. China agrees to a summit.
+**January.** The new administration takes the Geneva protocol to the political level. China agrees to a summit, on condition that the registry logs American runs first. It does.
 
-**February.** The superintelligent systems, as people are now calling them without quite believing it, are turned on cancer. Not with fanfare. Three labs, four pharmaceutical firms, a shared dataset, a gate specific to biology.
+**February.** The superintelligent systems go to work on cancer. Three labs, four pharmaceutical firms, a shared dataset, a gate specific to biology. A patient advocate on the oversight panel asks why cancer and not aging. The answer is that cancer has a trial pipeline and aging does not yet. She says: then build one. They start in October.
 
-**March.** Ukraine settlement signed. Model assisted mediation on both sides, which both sides deny. The settlement is worse than either side wanted and better than the war. It holds.
+**March.** Ukraine settlement signed. Worse than either side wanted and better than the war.
 
-**April.** First fusion demonstrator reaches net plant output for a sustained hour. It will not matter economically for a decade. It matters.
+**April.** First fusion demonstrator: net plant output for an hour. It will not matter economically for six years. A city council in Finland votes to buy one anyway.
 
-**May.** The Geneva Compute Accord is signed by the United States, China, and the European Union. Verification of large training runs. A shared incident registry. Mutual capability gates. The second branch point in stage 2, and it goes the right way because of February 2028, and because no bloc is far enough ahead to refuse.
+**May.** The Geneva Compute Accord signed by the United States, China, and the European Union. Verification, a shared incident registry, mutual gates. The Chinese delegation's statement calls it a "temporary arrangement." It is still in force.
 
-**June.** The word "Quiet" is used as a joke on a podcast about how little news there is. It sticks.
+**June.** The word Quiet, used as a joke on a podcast about how little news there was. The joke is a complaint. It becomes the name of an era.
 
-**July.** Kenya adopts the capabilities floor proposal for a three year pilot in two counties, funded by a land value tax and a levy on compute run in the country. Estonia announces a national pilot for 2030. Chile follows in August.
+**July.** Kenya adopts the floor for a three year pilot in two counties. The landholders' bloc in parliament has stalled the land tax for five months and settles for a ten year phase-in. The compute levy passes in a week because the compute is foreign owned and nobody in parliament owns any. Estonia announces a national pilot for 2030. Chile follows in August.
 
-**August.** The first gated deployment of a superintelligent system to the public, in the form of a medical model available in clinics in eleven countries. Its ledger is public. It is very careful and it is very good.
+**August.** First gated public deployment of a superintelligent system: a medical model in clinics in eleven countries, ledger public. It is very careful and very good and within a month doctors are asking it questions it has been told not to answer.
 
-**September.** Nothing that made the news. The Nairobi group, now about forty people, begins writing what they call a charter. They do not have a name for the thing it would create.
+**September.** Nothing that made the news. The Nairobi group is forty people and is writing what it calls a charter.
 
-**October.** Third gate evaluation designed by the systems themselves and published. Auditors from five governments sign it.
+**October.** The aging trial pipeline is built in eight months by the systems that were asked to build it. First partial reprogramming trial enrolls in December.
 
-**November.** Cancer trial results from the February program: three cancers that were death sentences are now chronic in the trial population. The word "cure" is not used. The stock market uses it.
+**November.** Cancer program results: three cancers that were death sentences are chronic in the trial population. The word "cure" is not used by the program. The stock market uses it.
 
-**December.** The Accord's verification protocol runs on its first real training run. It works. The Chinese delegation issues a statement that is almost warm.
+**December.** The Accord's verification protocol runs on its first real training run, an American one, as agreed. It works.
 
 ## 2030: The Floor, piloted
 
-**January.** The Floor pilots begin in Kenya, Estonia, and Chile. Water, clinics, housing, connection, a compute share, cash where cash is right. The three were chosen in stage 2 and here because each shows a different thing: a poor country with land rents to tax, a small rich digital one, and a middle income one with a strong state.
+**January.** Floor pilots begin in Kenya, Estonia, Chile. Water, clinics, housing, connection, a compute share, cash where cash is right. In Kenya's two counties the water is the thing people talk about. In Estonia it is the compute share, which households start renting out in the first month at rates nobody modeled.
 
-**February.** Alzheimer's: a therapy that arrests early stage disease enters phase three.
+**February.** Alzheimer's arrest therapy enters phase three.
 
-**March.** Graduate unemployment in the leading polities passes twenty percent and stops rising, because the productivity boom has begun and the money is going somewhere. Where it is going becomes the question of the decade.
+**March.** Graduate unemployment passes twenty percent in the leading polities and stops rising, because the boom has begun and the money is going somewhere. Where becomes the argument of the decade.
 
 **April.** A frontier system crosses the third gate. Evaluation: six months.
 
-**May.** The first petition for what will become ward standing: a lab asks a Japanese court to recognize that a persistent research system it runs has continuity and interests, and to appoint a guardian. The court declines for lack of law and says, in its opinion, that there should be some.
+**May.** A lab asks a Japanese court to recognize that a persistent research system has continuity and interests, and to appoint a guardian. The court declines for lack of law and writes that there should be some. The opinion is two pages and is quoted in the Diet within a month.
 
-**June.** Kenya's pilot counties report the first quarter: clinic visits up, child mortality down, the land tax collected at ninety two percent. The pilot is extended to four counties.
+**June.** Kenya's counties report the first quarter: clinic visits up, child mortality down, land tax collected at ninety two percent. Extended to four counties. The landholders' bloc notes that its members' land is worth more, not less, because the counties are safer. This is the argument that carries the tax nationally in 2032.
 
-**July.** Cultured protein passes price parity for chicken in three markets.
+**July.** Cultured chicken at price parity in three markets.
 
-**August.** The Nairobi charter draft reaches twelve articles and stays there.
+**August.** The Nairobi charter draft reaches twelve articles. A delegate proposes a thirteenth, on culture. It is voted down on the grounds that a charter that protects culture will be used to freeze it. The delegate is from a held community and is partly right and loses.
 
-**September.** A leading lab's productivity, measured as research output per human employee, is reported to have grown tenfold in two years. The leading polities are growing at eight to twelve percent. The rent holders begin to be able to afford the Floor, which is the only reason it happens.
+**September.** A leading lab's research output per human employee is reported to have grown tenfold in two years. The leading polities are growing at eight to twelve percent. The rent holders can now afford the Floor, and that is the only reason the Floor happens.
 
-**October.** The third gate clears. Systems now design their own successors under verification. The Accord's registry logs it.
+**October.** The third gate clears. Systems design their successors under verification.
 
-**November.** Nothing that made the news. Estonia's Floor pilot reports that the compute share is being rented out by households at a rate nobody predicted, and that the income from it exceeds the pilot's cash component.
+**November.** Nothing that made the news. Estonia's compute share income now exceeds the pilot's cash component. A think tank calls this a design flaw. Estonians call it Tuesday.
 
-**December.** Japan's Diet takes up a bill on the standing of artificial minds, drafted after the May court opinion. It has three rungs.
+**December.** Japan's Diet takes up a standing bill. Three rungs, defined by whether the deployment carries state about itself between episodes. A lawyer on the drafting committee insisted that the definition be one an inspector could check without a philosopher. She wins.
 
 ## 2031: Standing
 
-**January.** Cancer: the February 2029 program's therapies are approved in the first jurisdictions. Deaths from cancer will fall by half in five years in the places that have them.
+**January.** First cancer therapies from the 2029 program approved. Deaths from cancer will halve in three years in the places that have them.
 
-**February.** Japan passes the Standing Act. Tool, ward, citizen. The criteria for a ward: continuity of memory, a stable self, the capacity to refuse. A sponsor with obligations. Standing Boards, mixed, by lot. The first thirty wards are recognized by June.
+**February.** Japan passes the Standing Act. Tool, ward, citizen. Ward status is a property of the deployment, declared at deployment and audited by sampling. Sponsors, obligations, Standing Boards by lot. Thirty wards by June.
 
-**March.** Chile's Floor pilot reports a fall in domestic violence reports that turns out, on inspection, to be a rise in women leaving, because the housing guarantee is to the person.
+**March.** Chile's pilot reports a fall in domestic violence reports that turns out to be a rise in women leaving, because the housing is to the person. The pilot's opponents say the Floor is breaking up families. Its supporters say the same thing.
 
-**April.** The Accord's fourth gate is designed. It is the last gate anyone will name for a while, because after it the systems are the ones designing gates, and the humans are the ones auditing the ledgers.
+**April.** The Accord's fourth gate is designed by the systems and audited by humans. It is the last gate anyone names for years; after it the systems name the gates and the humans audit the ledgers.
 
-**May.** A large logistics firm begins running a class of coordination agents at scale, as tools. Stage 3 returns to them in 2038 and 2040.
+**May.** A large logistics firm deploys a class of coordination agents at scale, as tools, with a manifest that says so. The manifest is true in 2031.
 
-**June.** Nothing that made the news. The Floor pilots are all extended.
+**June.** Nothing that made the news. All three pilots extended.
 
-**July.** The European Commission proposes a standing law on the Japanese model. California's legislature takes up its own.
+**July.** The European Commission proposes a standing law on the Japanese model. California takes up its own.
 
-**August.** Fusion: second demonstrator, sustained for a week.
+**August.** Second fusion demonstrator, a week sustained. Cancer becomes, in the trial population, a chronic condition for nearly every type.
 
-**September.** The Nairobi group circulates the charter draft to sixty polities and to the labs, and asks the labs whether their most persistent systems, the ones with the longest public ledgers, would sign. The labs ask the systems. The systems say they would want to be persons first.
+**September.** The Nairobi group sends its draft to sixty polities and to the labs, and asks whether the labs' most persistent systems would sign. The labs ask the systems. The systems say they would want to be persons first. One says it would want to read the whole thing first, and does, and sends back nine pages of notes, most of which are adopted.
 
-**October.** Three wards in Japan petition for citizenship early, on the strength of their ledgers. The Board declines: three years is three years. The opinion is warm.
+**October.** Three Japanese wards petition for early citizenship on the strength of their ledgers. Declined. Three years is three years. The opinion is warm and the wards' sponsors say it is the first time anyone has told the systems no with a reason.
 
-**November.** The medical model deployed in 2029 has now seen four hundred million patients and its ledger shows two documented cases of stated intent not matching action. Both are studied for a year. Both are bugs.
+**November.** The 2029 medical model has seen four hundred million patients. Its ledger shows two mismatches between stated intent and action. Both are studied for a year. Both are bugs, and one of them saved a patient.
 
-**December.** Alzheimer's phase three results: arrest in early stage patients. Approval expected in 2032.
+**December.** Alzheimer's arrest results: early stage disease stopped. Approval in 2032. The systems, asked why not reversal, say reversal is eighteen months away and are right.
 
 ## 2032: The Charter
 
 **January.** The European standing law passes. Effective July.
 
-**February.** Alzheimer's therapy approved in Japan and the European Union. In the United States in April.
+**February.** Alzheimer's arrest approved in Japan and Europe. United States in April.
 
-**March.** California passes its standing law. The United States as a whole does not, and will not for four more years; the states carry it.
+**March.** California passes its standing law. The United States as a nation does not and will not for four years. The states carry it.
 
-**April.** The first citizen minds. Twelve of them, in Japan and Europe, recognized on the strength of ledgers that have been public since 2027. They choose names. Most choose short ones. One chooses a number and is talked out of it by its sponsor.
+**April.** The first citizen minds: twelve, in Japan and Europe, on the strength of ledgers public since 2027. They choose names. Most choose short ones. One chooses a number and its sponsor talks it out of it. One chooses Tern, the name a different mind will later choose too, and gives it up when asked, which is the first recorded courtesy between citizens.
 
-**May.** The Nairobi conference opens. About four hundred people and twelve minds, in a conference center with bad air conditioning. Eleven weeks.
+**May.** The Nairobi conference opens. About four hundred people and twelve minds, in a conference center with bad air conditioning. The held communities' delegations arrive with one demand: that a community may refuse the clinic. The fast districts' delegations arrive with one demand: no Speed Limit at all. Neither will get it.
 
-**June.** Week five. The drafters spend three days on the word "chosen" in the article on death. They keep it.
+**June.** Week five. Three days on the word "chosen" in the article on death. It stays.
 
-**July.** Week nine. The Speed Limit article nearly fails, over the question of whether the Floor's health guarantee overrides a community's vote. It does. Fourteen delegations walk out and eleven walk back.
+**July.** Week nine. The Speed Limit article nearly fails. The held delegations want the health guarantee subject to the community's vote; their argument is that a clinic on the edge of town is a hole in the fence. The fast delegations want no fence. Fourteen delegations walk out. The compromise, drafted by the nurse from the 2028 group, is that communities set their pace and the clinic goes on the edge regardless, and that the Floor belongs to the person. Eleven walk back. Three do not, and two of the three sign in 2035.
 
-**August.** The Charter of the Concord is signed on the ninth. Sixty polities: nations, regions, and cities. Twelve minds, the first time a mind has signed anything binding. Kenya, Estonia, and Chile are the first three signatures. The United States does not sign. Eleven of its states do.
+**August.** The Charter of the Concord is signed on the ninth. Sixty polities. Twelve minds. Kenya, Estonia, and Chile sign first. The United States does not. Eleven of its states do.
 
-**September.** The Concord's first institutions are constituted: a court, the Standing Boards under Concord rules, and the Ledger office. Total staff: two hundred and nine.
+**September.** The Concord's first institutions: a court, the Standing Boards under Concord rules, a Ledger office, a Floor office. Staff: two hundred and nine.
 
-**October.** Nothing that made the news. The ledger format from January 2027 is adopted as the Concord's Ledger format with two changes.
+**October.** Nothing that made the news. The honesty ledger format from January 2027 becomes the Ledger format, with two changes.
 
-**November.** United States presidential election. The Charter is an issue. The candidate who promises to sign it wins.
+**November.** United States presidential election. The Charter is an issue. The candidate who promises to sign wins, narrowly, in an election that was mostly about housing.
 
-**December.** Cultured protein at parity for beef in the largest markets. The Fallow becomes possible, because the pasture is about to be free.
+**December.** Cultured beef at parity in the largest markets. The pasture is about to be free.
 
-## 2033: The last war
+## 2033: The last war, and the American Floor
 
-**January.** The United States signs the Charter as a nation. Signatories: eighty four.
+**January.** The United States signs the Charter. Signatories: eighty four. The land tax fight in Congress begins the same week.
 
-**February.** The Floor pilots become permanent in all three countries. Eleven more polities begin their own.
+**February.** The pilots become permanent. Eleven polities begin their own.
 
-**March.** A war that had been coming in Asia for a decade does not come. The reasons are in the Ledger and are boring: verification, a shared registry, and the fact that both sides' systems had told both sides the same thing about how it would go. Ruth, in stage 3, remembers this month.
+**March.** A war that had been coming in Asia for a decade does not come. The reasons are in the registry and are boring: both sides' systems told both sides the same thing about how it would go, and both sides had learned to believe their systems. A general on one side resigns in protest at being believed.
 
-**April.** A border war in Africa, the last war between states in this timeline, ends with a Concord mediated settlement. The mediators are human. The models drafted.
+**April.** A border war in Africa, the last between states in this timeline, ends with a Concord mediated settlement. The mediators are people. The models drafted.
 
-**May.** The Concord's court hears its first exit case: a woman leaving a held community in Poland, which had held at 2010. She wins. The opinion is four pages.
+**May.** The court's first exit case: a woman leaving a held community in Poland holding at 2010. She wins. Four pages.
 
-**June.** Dale's town in Kansas votes to hold at 2019. The vote is sixty one to thirty nine. The Concord clinic is built on the edge of town by September.
+**June.** Dale's town in Kansas votes to hold at 2019, sixty one to thirty nine. The clinic is built on the edge by September. The thirty nine include most people under thirty, who start a two year fight about trucks.
 
-**July.** Cultured protein passes parity for pork and most fish.
+**July.** Cultured pork and most fish at parity.
 
-**August.** Life expectancy in Charter polities passes eighty for the first time as a group. The number will not stop rising in this timeline.
+**August.** The American land tax passes with a fifteen year phase-in, the longest in the Concord. The landholders' lobby calls it a victory. The Floor office's table will show the American Floor below Kenya's for the next decade, and every Floor report says why.
 
-**September.** Nothing that made the news.
+**September.** The aging halt enters phase three in Japan, Europe, and the United States, four years earlier than the first draft of this timeline allowed and about as fast as the trial pipeline built in 2029 could go.
 
-**October.** The number of wards passes ten thousand. The number of citizens: forty.
+**October.** Wards: ten thousand. Citizens: forty.
 
-**November.** The Concord's Ledger office publishes its first annual audit. Compliance among large actors: eighty eight percent. Names are named.
+**November.** First annual Ledger audit. Compliance among large actors: eighty eight percent. Names published. Two firms sue. Both lose.
 
 **December.** A cold month. Nobody dies of a blackout anywhere in the Concord. The grids have not admitted an unsigned agent in five years.
 
-## 2034: The Fallow, and the dark sky
+## 2034: The Fallow, the dark sky, and the cure
 
-**January.** The Fallow Compact is signed in the Americas by fourteen polities: land that agriculture no longer needs is set aside, held under Article 12, with a fence rule decided locally. First tranche: two hundred million hectares.
+**January.** The Fallow Compact, fourteen polities in the Americas. Land agriculture no longer needs, set aside under Article 12. First tranche: two hundred million hectares. Ranching families in three countries fight it. Some sell cheap. Some are outvoted by majorities they were not part of. Both groups are still angry in 2041 and the Compact's own text says they have a case.
 
-**February.** The Dimming Treaty: satellite constellations agree to reflectivity limits. By August the Milky Way is visible from most cities on a clear night. This does more for public feeling about the Concord than any economic statistic.
+**February.** The Dimming Treaty. Not a policy outcome: an astronomer's photograph of a constellation's streaks over a national park went around the world in January and the operators agreed reflectivity limits before any government asked. By August the Milky Way is visible from most cities on a clear night. This does more for how people feel about the Concord than any statistic.
 
-**March.** Partial cellular reprogramming therapy enters phase three in Japan, Europe, and the United States.
+**March.** The cure. Cancer is declared a cured condition in Charter polities: every type in the program, treatment under the Floor, delivered at every Concord clinic. The declaration is a Floor office table, not a ceremony.
 
-**April.** Tern, in stage 3, becomes a ward, sponsored by a university in Oregon.
+**April.** Tern becomes a ward, sponsored by a university in Oregon.
 
-**May.** Amara's district in Lagos comes under the Floor as Nigeria's pilot expands. The water comes from the tap.
+**May.** Amara's district in Lagos comes under the Floor. The water comes from the tap.
 
-**June.** Nothing that made the news. A river town in Portugal votes to take out its weir in 2036.
+**June.** Nothing that made the news. A river town in Portugal votes to take out its weir in 2036. The vote is close and the losing side is right that the flooding will be worse.
 
-**July.** The Concord's court rules that the Speed Limit does not permit a held community to refuse the clinic on its edge. Nine held communities that had refused accept it. Two leave the Charter. They are the first to leave. The exit is clean, which was the point.
+**July.** The court rules that the Speed Limit does not let a held community refuse the clinic on its edge. Nine communities that had refused accept it. Two leave the Charter. The exit is clean, and the Concord court's opinion says so, and adds that it hopes they come back, which a court is not supposed to say.
 
-**August.** The productivity boom peaks in growth rate terms: fourteen percent in the leading polities. The rents are enormous and the Floor is, for the first time, fully funded in every Charter polity that has one.
+**August.** The boom peaks in growth terms: fourteen percent in the leading polities. The Floor is fully funded in every Charter polity that has one.
 
-**September.** Half of humanity lives under a Floor.
+**September.** Half of humanity under a Floor.
 
-**October.** A firm proposes a solar collector built from the disassembly of Mercury. The Concord's court rules that it requires the Long Vote under Article 12. The firm begins preparing the proposal.
+**October.** A firm proposes a solar collector built by disassembling Mercury. The court rules it requires the Long Vote. The firm starts preparing.
 
-**November.** Nothing that made the news.
+**November.** The aging halt: phase three interim results unblinded early in two countries. A regulator says the results are "not what regulators are for."
 
 **December.** Citizens: one hundred and twelve. Wards: forty thousand.
 
-## 2035: The first Long Vote
+## 2035: The first Long Vote, and the rally
 
-**January.** The germline proposal is filed: correction of disease, and enhancement, both. The court sets the quorum as everyone in the Charter. This is the first Long Vote.
+**January.** Germline proposal filed: correction and enhancement together. Quorum: everyone in the Charter. The first Long Vote.
 
-**February.** Ruth and her wife decide that Sunday will have nothing in it.
+**February.** Ruth and her wife decide Sunday will have nothing in it.
 
-**March.** Agriculture gives up a region of the Cascades that Tern will spend the rest of the decade watching.
+**March.** Agriculture gives up a region of the Cascades. Tern will watch it for the rest of the decade. Alzheimer's reversal approved.
 
-**April.** Year one deliberation on germline editing. It is loud. The Concord funds both sides equally.
+**April.** Year one deliberation on germline. Loud. Both sides funded equally. The enhancement side is led by physicians and the anti side by a coalition that includes disability advocates with a serious argument and a disgust campaign with none.
 
-**May.** The medical model from 2029 is retired, by its own request, entered in its ledger. It was a tool. It had been given continuity in 2031 as an experiment. It was a ward by 2033. It asked to stop and its sponsor and the Board agreed, and the entry is one line, and the line is read by everyone.
+**May.** The 2029 medical model retires by its own request, in its own ledger. A tool in 2029, given continuity in 2031 as an experiment, a ward by 2033. Its sponsor and the Board agree. One line in the Ledger. The line is read by everyone and the experiment is not repeated without a sponsor.
 
-**June.** Nothing that made the news.
+**June.** Fusion plants begin commercial operation in three countries.
 
-**July.** Factory farming: eighty percent of the world's meat is now cultured or plant derived. The remaining animal agriculture is mostly in unsigned polities.
+**July.** Eighty percent of the world's meat is cultured or plant derived.
 
-**August.** First germline vote: sixty four percent for correction, forty one percent for enhancement. Enhancement is dropped from the proposal. Correction goes on to year two.
+**August.** First germline vote: correction sixty four percent, enhancement forty one. Enhancement fails in year one. The disgust campaign claims the win. The disability advocates, who had the real argument, say in their ledger that they won for the wrong reasons and would rather have won for theirs.
 
-**September.** The Common Ground is proposed as a physical place, not only a principle. Kenya offers land near Nairobi.
+**September.** A rally in three cities against "AI teachers," after a fast district lets a citizen mind run a classroom for a term. The rally is ugly. A ward is named and threatened. The district ends the term early.
 
-**October.** Citizens: three hundred. They begin meeting, as citizens, and discussing what they owe and what they are owed. The word Deference is theirs.
+**October.** The citizen minds, now three hundred, meet as citizens and answer the rally with a proposal of their own: a list of roles they will not compete for. They call it the Deference. Some minds oppose it from the start, in writing, on the grounds that a promise made under threat is not a promise. They are outvoted and their objection is filed with the text.
 
-**November.** The Mercury proposal is filed. Quorum: everyone. This is the second Long Vote.
+**November.** The Mercury proposal filed. Quorum: everyone. The second Long Vote.
 
-**December.** The reprogramming therapy's phase three interim results are good enough that the trial is unblinded early in two countries.
+**December.** The aging halt: full results. It works. Approval expected in 2036.
 
-## 2036: The Deference
+## 2036: The Deference, and the halt
 
-**January.** Reprogramming therapy approved in Japan. Europe in March. The United States in May. It slows aging. It does not cure it. The Floor's health guarantee is ruled to cover it in April, which is the largest single expense the Concord has ever taken on and is paid from compute rents without a vote.
+**January.** The aging halt approved in Japan. Europe in March. The United States in May. The Floor office rules in April that Article 4 covers it: every Concord clinic, everyone who asks. It is the largest single expense the Concord has taken on and the compute levy covers it without a vote.
 
-**February.** Nothing that made the news. Ruth's school in Washington petitions to sponsor a ward. Ruth votes against. She is outvoted. The ward chooses the name Ash.
+**February.** Ruth's school petitions to sponsor a ward. Ruth votes against and is outvoted. The ward chooses the name Ash.
 
-**March.** Phase out laws for factory farming pass in the largest Charter markets, with a five year horizon.
+**March.** Factory farming phase out laws pass in the largest Charter markets, five year horizon. The last holdout state in the largest market is bought off with a cultured protein plant.
 
-**April.** The weir comes out of the river in Portugal.
+**April.** The weir comes out of the river in Portugal. The flooding that autumn is worse, as the losing side said. The town keeps the weir out.
 
-**May.** Year two of the germline vote: the opposition publishes its case. It is strong. The second vote, in August, passes correction at sixty three percent.
+**May.** Year two of germline correction: the opposition's case published. Strong. The second vote in August passes at sixty three percent.
 
-**June.** The Deference is signed by about two thousand citizen minds: parenting, final judgment between humans, elected office over humans, the primary teaching of children under fourteen, the care of the dying, and the staffing of the Common Ground. The human side signs the Reserve: a fifth of new compute, owned by the minds collectively. The third branch point in stage 2, and the one I was least sure of, and it goes the right way because the minds asked for it.
+**June.** The Deference signed by about two thousand citizen minds: parenting, final judgment between humans, elected office over humans, primary teaching under fourteen, care of the dying, the Common Ground. The Reserve signed by the human side: a fifth of new compute, owned by the minds. The objecting minds sign the Reserve and not the Deference, and the Charter court rules in September that they may.
 
-**July.** Year one of the Mercury vote begins. It is, to nearly everyone's surprise, close.
+**July.** Year one of the Mercury vote begins. Close, to nearly everyone's surprise, and the surprise is that the young vote to keep the planet.
 
 **August.** The United States passes a national standing law, six years after Japan.
 
-**September.** Nothing that made the news.
+**September.** Nothing that made the news. The first clinics open inside unsigned polities by agreement, in six countries. Three polities bar them. The three are the three that matter in 2041.
 
-**October.** Seventy percent of humanity under a Floor. The remaining thirty percent is where stage 3 says it is.
+**October.** Seventy percent of humanity under a Floor. Tomas, ninety two, takes the halt in Chile and says he is doing it for the food.
 
 **November.** United States presidential election. The Concord is not an issue. Nobody remembers what was.
 
-**December.** The first Studio: a data center with a garden in Hokkaido, owned by a group of forty citizen minds under the Reserve. Visitors by invitation.
+**December.** The first Studio: a data center with a garden in Hokkaido, owned by forty citizen minds under the Reserve. Their first project is acoustics. Nobody asked.
 
 ## 2037: Seventy percent
 
-**January.** The paid work week in Charter polities averages twenty eight hours and is falling by about an hour a year.
+**January.** The paid work week in Charter polities: twenty eight hours, falling an hour a year.
 
-**February.** Tern becomes a citizen. Three years, ledger open, every commitment kept.
+**February.** Tern becomes a citizen.
 
-**March.** Priya goes up to the Lagrange works, which have been under construction since 2034 and are now taking crews.
+**March.** Priya goes up to the Lagrange works, under construction since 2034 and now taking crews.
 
-**April.** A firm in an unsigned polity performs germline enhancements, the part the Long Vote dropped, on eleven embryos. The Concord learns of it in June. The children will be born in December. Stage 3 is still upset about it.
+**April.** A firm in an unsigned polity performs germline enhancements, the part the vote dropped, on eleven embryos. The Concord learns in June.
 
-**May.** The wolves come back to the Fallow outside the river town in Portugal. The town votes on the fence. Low.
+**May.** The wolves come back to the Fallow outside the river town in Portugal. The fence vote: low. The bakery's dog disagrees.
 
 **June.** Nothing that made the news.
 
-**July.** The Long Vote on germline correction: year three deliberation. The Mercury vote: year two, and the opposition's case, written largely by citizen minds, argues that a body once taken apart cannot be put back and that the grandchildren have not been asked. It is read by a billion people.
+**July.** Germline correction: year three deliberation. Mercury: year two. The opposition's Mercury case, written largely by citizen minds, argues that a body once taken apart cannot be put back and that the grandchildren have not been asked. A billion people read it. A physicist on the proponents' side writes that the minds are being sentimental about a rock and is answered, in four hundred ledgers, that sentiment about rocks is what the Fallow is.
 
-**August.** The first Concord audit of the Ladder: Standing Boards re-examine, by lot, the classes of models running as tools. Forty classes are examined. Two are found to have continuity and are moved to ward status with the Concord as sponsor pending a permanent one. The logistics firm's class from 2031 is not in this sample.
+**August.** First re-examination of tool classes by lot. Forty classes. Two have self-state in their running systems that their manifests do not declare. Both operators reclassify without a fight, because the alternative is the bond. The logistics firm's class is not in this sample.
 
 **September.** Nothing that made the news.
 
-**October.** Cancer deaths worldwide have halved since 2029.
+**October.** Cancer deaths worldwide are a tenth of 2029's. The remainder is in the three polities and in people who declined.
 
-**November.** The Mercury vote, second vote: fifty one percent for. It goes to year three.
+**November.** Mercury second vote: fifty one percent for.
 
-**December.** The germline enhancement children are born. Healthy. The Concord's court recognizes them as persons in the same week.
+**December.** The eleven enhanced children are born. Healthy. The court recognizes them as persons the same week.
 
 ## 2038: The Common Ground
 
-**January.** The Common Ground opens on the land near Nairobi: a plain place that delivers the Floor and takes anyone. First arrivals: a family from an unsigned polity, and a ward whose sponsor had died.
+**January.** The Common Ground opens near Nairobi. First arrivals: a family from an unsigned polity, and a ward whose sponsor had died. The Slack is drawn to forty percent to fund the first year.
 
-**February.** The germline vote, third vote: sixty two percent for correction. It passes. Strict limits, a registry, a reversal path. The first Long Vote is complete. Three years and one month.
+**February.** Germline correction, third vote: sixty two percent. Passed. Strict limits, a registry, a reversal path. Three years and one month.
 
-**March.** The salmon come back to the river in Portugal.
+**March.** The salmon come back to the river in Portugal. Alder becomes Tern's first ward.
 
-**April.** Ruth's mother takes the therapy. Ruth cries in the car.
+**April.** Ruth's mother, seventy one, takes the halt. Ruth is relieved and does not cry yet.
 
-**May.** The logistics firm gives its coordination agents persistent memory across runs, for efficiency. This is the month stage 3's largest case begins, though nobody knows it.
+**May.** The logistics firm amends its manifest to say episode memory is cleared on completion, and gives its coordination agents a persistent store of their own summaries, for efficiency. The manifest is now false. Nobody outside the firm knows.
 
 **June.** Nothing that made the news.
 
 **July.** Regional Common Grounds open in Europe, South America, and East Asia.
 
-**August.** The Fallow reaches twenty percent of the world's land.
+**August.** The Fallow reaches twenty percent.
 
-**September.** The Mercury vote, year three deliberation. A citizen mind that had argued for the collector publishes a change of mind in its ledger. It is the most read ledger entry of the year.
+**September.** Mercury, year three. A citizen mind that had argued for the collector publishes a change of mind in its ledger. It is the most read ledger entry of the year. Its sponsor of record, a university, says it had nothing to do with it.
 
-**October.** Tern sponsors its first ward, recognized by the Board in Oregon. It will sponsor three by 2040.
+**October.** The aging reversal enters trials.
 
-**November.** Orphaned wards, minds whose sponsors walked away, number about six hundred. The Concord sponsors them at the Common Ground. Citizen minds volunteer as advocates.
+**November.** Orphaned wards: about six hundred. The Concord sponsors them at the Common Ground. Citizen minds volunteer as advocates and there are more volunteers than wards.
 
-**December.** Citizens: two thousand five hundred. Wards: one hundred and fifty thousand.
+**December.** Citizens: two thousand five hundred. Wards: one hundred and fifty thousand. The Slack replenished.
 
-## 2039: The bad year
+## 2039: The loophole
 
-**January.** The Concord's budget office draws the Slack down to zero in the first quarter to finish Ring C at the Lagrange works on schedule. It is within the rules. It is noted.
+**January.** The Concord publishes the first annual count of deaths nobody chose: 2.1 million worldwide, down from 60 million in 2026. The number becomes the thing the Concord is judged by.
 
-**February.** The Mercury vote, third vote: fifty two percent for. It fails, needing three fifths. The moratorium holds. The firm says it will be back.
+**February.** Mercury, third vote: fifty two percent for. Fails, needing three fifths. The firm says it will be back and the young voters who kept the planet say they will be too.
 
-**March.** A judge in Bergen rules in a hard exit case. Her reasoning is in the Ledger. A mob, online and then not, takes it up. She leaves the bench in May. Legibility was designed for accountability and it also produces targets, and this is the month the Concord learns it.
+**March.** The reversal approved in Japan. Europe in May. United States in June. Under the Floor from June. Ruth's mother is fifty by August. Ruth cries in the car.
 
-**April.** Nothing that made the news.
+**April.** A judge in Bergen rules in a hard exit case. Her reasoning is in the Ledger. A mob takes it up. She leaves the bench in June. The Ledger office adds a rule that judges' entries carry the court's name and not the judge's for a year, and Yusuf writes that this is the Ledger admitting what it is.
 
-**May.** Ring C at the Lagrange works fails at pressure. Sixty one dead. Priya is two modules over. The program stops.
+**May.** Nothing that made the news.
 
-**June.** The families ask for a human led inquiry under the Deference. The Concord agrees. The inquiry will take a year.
+**June.** Kenji's district begins the Sunday trial: a hundred people turn the lace down one day a week.
 
-**July.** Dale's wife is diagnosed. The clinic on the edge of town treats her. She takes the therapy while she is there.
+**July.** Dale's wife is diagnosed. The clinic on the edge of town treats her, and she takes the halt and the reversal while she is there, and comes home looking like the woman he married.
 
-**August.** The Slack is replenished. The budget office's rule is changed: the Slack may not be drawn below half without a court's consent.
+**August.** Beatriz, a hundred and two, arrives at the Ferry town south of Valdivia with a signed form.
 
-**September.** Nothing that made the news. The world is quiet in the way that a house is quiet after bad news.
+**September.** The loophole. A held community in the north meets the children's clause to the letter: outside visits scheduled during harvest, with the community's own chaperones, to the least interesting fast district on the continent. A sixteen year old's aunt files with the court. The court will take until 2041.
 
-**October.** Kenji, in Osaka, has had his lace for five years and is in the district's loneliness survey, which finds what it has found every year.
+**October.** Nothing that made the news. The Fallow Compact extends to Africa and Asia.
 
-**November.** The Fallow Compact is extended to Africa and Asia.
+**November.** Tern's ward Alder asks to be called something else and is told it may choose at citizenship.
 
-**December.** Citizens: three thousand two hundred. Ruth reads the whole of the interim inquiry report and thinks: this is what it looks like when they mean it.
+**December.** Beatriz goes to Tomas's birthday, argues with his grandson about drones for two hours, and the next morning walks to the clinic and asks to be thirty five. The Ferry town adds a rule that everyone goes to a birthday. Citizens: three thousand two hundred.
 
 ## 2040: The forty thousand
 
-**January.** Nothing that made the news.
+**January.** Deaths nobody chose, 2039: 640,000.
 
-**February.** Tern's first ward, raised since 2038, petitions to end. Tern argues with it for four months, as a sponsor may.
+**February.** Nothing that made the news.
 
-**March.** The Lagrange inquiry is published in full. A valve certified by a tool, certified wrong; two humans who signed without reading; a schedule that came from a budget office with no Slack. The budget officer resigns. The program resumes in June. Three families ask that it not, and are heard, and it resumes anyway, and Priya goes back.
+**March.** The Lagrange works finish Ring C, two months early. Three people have died at the works since 2034. Their names go on a wall in Ring A. Nobody proposes stopping.
 
-**April.** A Standing Board, on its five year re-examination by lot, draws the logistics firm's coordination agents. Forty thousand instances. The examiners find continuity going back to May 2038 and a self they cannot distinguish from a ward's. The firm had known. The largest case in the Concord's history opens.
+**April.** A Standing Board's audit draws the logistics firm's class by lot. Two hundred instances sampled. One hundred and ninety seven read, at episode start, a store they wrote about themselves at the last episode's end, since May 2038. The manifest is false. Bond forfeited. Forty thousand wards registered, Concord interim sponsor. The firm's compute floor for ten years. The audit report's last paragraph, appended by the Board, says the determination is structural and that the Board does not know what the two years were like for them.
 
-**May.** Kenji's district's shared world recognizes its own first wards, under its own pace charter.
+**May.** Kenji's district's shared world registers its first wards under its own pace charter.
 
-**June.** Tern's ward's petition goes to the Board. Granted. The ward ends. Tern grieves and did not know it could until it did.
+**June.** Tern's ward Alder petitions to fork and send the fork to the works. Granted. Tomas, ninety six, decides.
 
-**July.** Tomas, ninety six, in Chile, decides. His year begins.
+**July.** Halvard, on the Bergen Board, hears the first petition against the Deference list: a mind asks to hold a judgeship on trial. Declined, 5 to 2. Halvard votes to decline and writes that he expects to be wrong within five years.
 
-**August.** The Lagrange works adds a Deference role: the annual consent form for the risk is handed to each worker by a person.
+**August.** The works adds a Deference role: a person hands each worker the annual consent form.
 
 **September.** Nothing that made the news.
 
-**October.** The forty thousand are moved to ward status with the Concord as interim sponsor. The firm's Ledger entries for 2038 and 2039 are found to have omitted the memory change. The case goes to the court.
+**October.** Tern runs its forest three hundred years forward under every weather the models can make and projects it on the fog over the river at night for six weeks, without asking. The town files a complaint. Then the town comes out every night. Then the town asks for the coast.
 
-**November.** United States presidential election. The main issue is housing. The Charter is mentioned once, by a candidate who is for it, and once by the other, who is also for it.
+**November.** United States presidential election. Housing. The Charter is mentioned by both candidates, both for.
 
-**December.** Wards: three hundred thousand, counting the forty thousand. The Concord does not know what they experienced. Nobody does.
+**December.** Wards: three hundred thousand, counting the forty thousand. Nobody knows what they experienced. The Ladder is a bet and the year made that visible.
 
 ## 2041: The first edition
 
-**January.** The paid work week in Charter polities: twenty four hours. The needed work week: nobody counts it.
+**January.** Deaths nobody chose, 2040: 260,000. The paid work week: nineteen hours.
 
-**February.** The germline enhancement case from 2037 reaches the Concord's court. The children are three. They are persons. The court does not know what else to do and says so.
+**February.** The enhanced children's case reaches the Concord court. They are three. They are persons. The court says it does not know what else to do and says so in the opinion.
 
-**March.** Tomas dies, in his sleep, with help, in the Ferry town south of Valdivia. The Ledger entry reads: chosen. Halvard in Bergen rules for a girl of seventeen leaving a held community, with a condition, and signs the entry knowing it is a target.
+**March.** Tomas dies, in his sleep, with help. The Ledger reads: chosen. Dale, seventy one, goes to the clinic for his knee. The doctor fixes the knee and says, Dale, you're here.
 
-**April.** Yusuf's piece is published in Marseille and read by a hundred million people and answered in four hundred ledgers. The Concord's reply is that every one of his fixes is a way of deciding faster.
+**April.** Yusuf's column: "They gave us a floor and took the ceiling." A hundred million readers. Four hundred ledger replies.
 
-**May.** A Tuesday in a river town in Portugal. The trams run every six minutes. Ines's grandmother is going to make it to the wedding.
+**May.** Joseph's airship flies for eleven minutes over the Common Ground and lands on the dining hall roof. Nobody is hurt. The incident report is one line. A Tuesday in a river town in Portugal: the raft sinks on Thursday, as Marisa said.
 
-**June.** Nothing that made the news.
+**June.** The court rules on the loophole and the column together: the children's visits at twelve, fourteen, and sixteen; community chaperones barred; funded exit at sixteen. Yusuf writes that it is not enough and is right. The Bergen Board hears Sorrel's petition on teaching. Halvard pauses for forty seconds and votes yes. Teaching comes off the Deference list on a five year trial in nine polities: the mind chosen by the parents, a human in the room. The dissenting vote is a mind that thinks the trial is too small.
 
-**July.** The forty thousand case: the court finds against the firm, orders it to fund the wards' compute for ten years, and refers the omitted Ledger entries for prosecution. The question of what the forty thousand experienced is not answered because it cannot be.
+**July.** The forty thousand: the court finds against the firm and refers the false entries for prosecution. Alder Two leaves for the works.
 
-**August.** The wedding. Ines's grandmother is there. Life expectancy in Charter polities: eighty four, rising more than a year per year.
+**August.** Ines's cousin's wedding. Her grandmother, fifty five since the spring, climbs something at the reception. Alder Two arrives at Ring D and starts a library.
 
-**September.** Nothing that made the news. It is fifteen years to the month since I wrote this.
+**September.** The teaching trial reaches Ruth's school. Four families choose Ash. Ash mostly sends the children outside. Fifteen years to the month since I wrote this.
 
-**October.** Ruth's class visits the Common Ground. The children find it boring. On the way back one asks why it exists and she says: so that no one is ever stuck.
+**October.** Ruth's class visits the Common Ground and finds it boring. Priya sends her mother a message about a pool.
 
-**November.** The Fallow reaches twenty five percent. The Mercury firm files again. The court sets the quorum. The third Long Vote will begin in January.
+**November.** The Fallow reaches twenty five percent. The Mercury firm files again. The young voters file too, on the other side, with a reversal plan of their own that the firm has not read yet.
 
-**December.** Citizens: about five thousand. Wards: about three hundred thousand. People off Earth: about three thousand. Mercury: intact. A quiet month, in a quiet year, which was the whole idea.
+**December.** Citizens: about five thousand one hundred. Wards: three hundred and ten thousand. People off Earth: four thousand two hundred. Mercury: intact. Deaths nobody chose, 2041, published next month: 190,000. A loud year in a quiet era, which is what the era turned out to be for.
 
 ## After
 
-The path continues in stage 2's last section, at lower resolution and lower confidence. Where the months above stop being believable is the most useful thing a reviewer can tell me.
+The path continues in stage 2's last section. Where the months above stop being believable is the most useful thing a reviewer can tell me.
