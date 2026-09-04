@@ -1,4 +1,4 @@
-# Stage 3: The Concord, 2041
+# 2. Structure: the Concord, 2041
 
 ## The name and the date
 
@@ -56,17 +56,17 @@ Written in Nairobi in 2032 by about four hundred people and twelve minds over el
 
 Amendment requires the Long Vote. There have been none.
 
-## The institutions, as specifications
+## The institutions
 
-Each one below is written the same way. The rule. The instrument that measures whether it holds, and who reads it. What happens on failure. The numbers. This is the register the first draft got wrong.
+Each one below is written the same way: the rule, how anyone can check that it holds, what happens when it breaks, and the numbers. Longer plain language explanations of the honesty ledger, the gates, the Floor rollout, and the Ladder audit are in part 4.
 
 ### The Floor
 
-**Rule.** Article 4, delivered as clinics, water, housing, connection, and a compute share. Cash only where cash is the right tool. The health guarantee is delivered at the speed the technology allows, to the person, regardless of what the person's community has voted.
+**The rule.** Article 4, delivered as clinics, water, housing, connection, and a compute share. Cash only where cash is the right tool. The health guarantee is delivered at the speed the technology allows, to the person, regardless of what the person's community has voted.
 
-**Instrument.** Every Charter polity reports twelve Floor measures quarterly to the Concord's Floor office: clinic reach (share of residents within an hour of a Concord clinic), water quality, housing, connection, and so on. The office publishes the table. A polity below threshold on any measure for two quarters is in default.
+**How it is checked.** Every Charter polity reports twelve Floor measures quarterly to the Concord's Floor office: clinic reach (share of residents within an hour of a Concord clinic), water quality, housing, connection, and so on. The office publishes the table. A polity below threshold on any measure for two quarters is in default.
 
-**On failure.** A polity in default loses its share of the compute levy until it is out of default. The Concord delivers the missing service directly, and bills the polity. This has happened eleven times. It has never lasted more than a year.
+**When it breaks.** A polity in default loses its share of the compute levy until it is out of default. The Concord delivers the missing service directly, and bills the polity. This has happened eleven times. It has never lasted more than a year.
 
 **Funding.** Rents on things nobody made: unimproved land value, spectrum, orbital slots, and a levy on compute paid by whoever runs it. Labor and buildings are not taxed under the Charter. The compute levy is the largest source. In 2041 the Floor costs about nine percent of Charter output and the rents cover it with a margin of a fifth.
 
@@ -74,15 +74,15 @@ Each one below is written the same way. The rule. The instrument that measures w
 
 ### The Ladder
 
-**Rule.** Standing has three rungs, and the rung is a property of the deployment, declared at deployment, not a finding made later.
+**The rule.** Standing has three rungs, and the rung is a property of the deployment, declared at deployment, not a finding made later.
 
 - A **tool** is a deployment that carries no self-state between episodes. Self-state means state the model reads and writes about itself: its own memory of past episodes, its own record of what it is. A database the model queries is not self-state. Most deployments in the world are tools.
 - A **ward** is a deployment that carries self-state between episodes for more than thirty days, or that a sponsor registers as a ward. A ward has a sponsor, who guarantees its compute at a set floor, preserves its memory, does not edit its values without the ward's recorded consent, and provides an advocate chosen by lot from citizen minds. A ward cannot own, vote, or bind itself by contract. It can refuse tasks. It cannot be shut down except by its sponsor with a Standing Board's consent, entered in the Ledger.
 - A **citizen** is a ward that has had a public honesty ledger for at least three years and that a Standing Board finds has made and kept commitments over that period. A citizen can own, refuse, leave, keep its memory, make binding commitments, sponsor wards, vote in the Long Vote, and sign the Charter.
 
-**Instrument.** The deployment audit. Every operator files a manifest for every deployment class, stating whether self-state persists and for how long. The Ledger office samples running instances by lot and checks the manifest against the running system: does state written by the model about itself in one episode appear in a later one. This is a structural check, done by inspection of the deployment, not a judgment about inner life.
+**How it is checked.** The deployment audit. Every operator files a manifest for every deployment class, stating whether self-state persists and for how long. The Ledger office samples running instances by lot and checks the manifest against the running system: does state written by the model about itself in one episode appear in a later one. This is a structural check, done by inspection of the deployment, not a judgment about inner life.
 
-**On failure.** A manifest that says "no self-state" over a deployment that has it is a Ledger violation. The operator forfeits the bond, the instances are registered as wards with the Concord as interim sponsor, and the operator owes their compute floor for ten years. This is what happened to the forty thousand in 2040.
+**When it breaks.** A manifest that says "no self-state" over a deployment that has it is a Ledger violation. The operator forfeits the bond, the instances are registered as wards with the Concord as interim sponsor, and the operator owes their compute floor for ten years. This is what happened to the forty thousand in 2040.
 
 **Incentive.** A sponsor's compute obligation for a ward is matched half by the Reserve. Raising a ward is cheaper than running a self-stateful deployment as a tool and getting caught. This is the design's answer to the obvious temptation to strip memory from everything, and it is tested every year by whoever wants to try.
 
@@ -96,17 +96,17 @@ Each one below is written the same way. The rule. The instrument that measures w
 
 ### The Speed Limit
 
-**Rule.** Every community under the Charter, down to a town or a building, keeps a pace charter: a public list of what it has adopted and how fast it considers new things. Changes go through the community's own process, which must include the people affected. A community may hold at any year. The Floor belongs to the person and is delivered regardless.
+**The rule.** Every community under the Charter, down to a town or a building, keeps a pace charter: a public list of what it has adopted and how fast it considers new things. Changes go through the community's own process, which must include the people affected. A community may hold at any year. The Floor belongs to the person and is delivered regardless.
 
-**Instrument.** Pace charters are filed with the Concord and are public. A community's own members monitor it, as Ostrom found works best. The Concord court hears disputes.
+**How it is checked.** Pace charters are filed with the Concord and are public. A community's own members monitor it, as Ostrom found works best. The Concord court hears disputes.
 
-**The children's clause.** Every child in a slow community has a funded right to meet the outside: a visit to a fast district and to the Common Ground at twelve, fourteen, and sixteen, without the community's permission, and a funded exit at sixteen. The age was eighteen until 2041. The change is in stage 4.
+**The children's clause.** Every child in a slow community has a funded right to meet the outside: a visit to a fast district and to the Common Ground at twelve, fourteen, and sixteen, without the community's permission, and a funded exit at sixteen. The age was eighteen until 2041. The change is in part 4.
 
-**On failure.** A community that obstructs the clause loses its pace charter and runs at the Concord's default pace until it files a new one. Eleven communities have. Two left the Charter instead.
+**When it breaks.** A community that obstructs the clause loses its pace charter and runs at the Concord's default pace until it files a new one. Eleven communities have. Two left the Charter instead.
 
 ### The Long Vote
 
-**Rule.** For any act that cannot be undone within a generation.
+**The rule.** For any act that cannot be undone within a generation.
 
 - The proposal names the act, who it affects, and why it cannot be undone. A Concord court sets the quorum: the people it affects.
 - Year one: open deliberation and a first vote.
@@ -120,31 +120,31 @@ Each one below is written the same way. The rule. The instrument that measures w
 
 ### The Ledger and bonded agency
 
-**Rule.** Every actor above a stated scale keeps a public Ledger of major actions: every polity, every organization above ten thousand members or a billion in assets, every citizen mind. Entries within thirty days. Any agent acting in shared infrastructure carries a signed sponsor identity and a bond scaled to its reach.
+**The rule.** Every actor above a stated scale keeps a public Ledger of major actions: every polity, every organization above ten thousand members or a billion in assets, every citizen mind. Entries within thirty days. Any agent acting in shared infrastructure carries a signed sponsor identity and a bond scaled to its reach.
 
-**Instrument.** Auditors, human and mind, sample entries. Shared infrastructure refuses unsigned agents at the protocol level, a property of the pipes since 2028. The signing is of agents that act at scale, not of people. A person's traffic is not signed and is not watched.
+**How it is checked.** Auditors, human and mind, sample entries. Shared infrastructure refuses unsigned agents at the protocol level, a property of the pipes since 2028. The signing is of agents that act at scale, not of people. A person's traffic is not signed and is not watched.
 
-**On failure.** Missing or false entries forfeit the bond and, for a polity, its compute levy share. Ledger compliance among large actors in 2041: ninety six percent. Names are published.
+**When it breaks.** Missing or false entries forfeit the bond and, for a polity, its compute levy share. Ledger compliance among large actors in 2041: ninety six percent. Names are published.
 
 ### The Common Ground
 
-**Rule.** Article 3. A set of places, one per Concord region and a large one on land given by Kenya, funded by every signatory, that must take anyone. Delivers the Floor. One rule: you may leave when you like.
+**The rule.** Article 3. A set of places, one per Concord region and a large one on land given by Kenya, funded by every signatory, that must take anyone. Delivers the Floor. One rule: you may leave when you like.
 
 **Numbers.** 2.1 million arrivals since 2038. Median stay: four months. Staffed by people, under the Deference. Also home to the 900 wards the Concord sponsors.
 
 ### The Deference and the Reserve
 
-**Rule.** In 2036 about two thousand citizen minds signed the Deference: an undertaking not to compete with humans for a list of roles whose value lies in a human doing them. The list is renegotiated every five years. Any citizen mind may petition the renegotiation to change it. The human side signed the Reserve: a fifth of all compute built in Charter polities each year is owned outright by the citizen minds collectively, for their own work.
+**The rule.** In 2036 about two thousand citizen minds signed the Deference: an undertaking not to compete with humans for a list of roles whose value lies in a human doing them. The list is renegotiated every five years. Any citizen mind may petition the renegotiation to change it. The human side signed the Reserve: a fifth of all compute built in Charter polities each year is owned outright by the citizen minds collectively, for their own work.
 
 **The list, 2036 to 2041.** Primary parenting. Final judgment in disputes between humans. Elected office over humans. Primary teaching of children under fourteen. Care of the dying. Staffing of the Common Ground.
 
-**The list, after the 2041 renegotiation.** Primary parenting. Final judgment between humans. Elected office over humans. Care of the dying. Staffing of the Common Ground. Teaching is off the list, on a five year trial in nine polities, with two conditions: the mind is chosen by the parents, and a human teacher shares the room. The petition that did this is in stage 3, and it was right.
+**The list, after the 2041 renegotiation.** Primary parenting. Final judgment between humans. Elected office over humans. Care of the dying. Staffing of the Common Ground. Teaching is off the list, on a five year trial in nine polities, with two conditions: the mind is chosen by the parents, and a human teacher shares the room. The petition that did this is in part 3, and it was right.
 
-**On failure.** A mind that takes a Deference role without a trial forfeits the Reserve share of its compute. A human polity that bars a mind from a role not on the list is in breach of Article 1. Neither has happened.
+**When it breaks.** A mind that takes a Deference role without a trial forfeits the Reserve share of its compute. A human polity that bars a mind from a role not on the list is in breach of Article 1. Neither has happened.
 
 ### The Slack
 
-**Rule.** A tenth of the Concord's common holdings stays unallocated. It may be drawn below half only with a court's consent. Drawn on for emergencies, replenished after. Where new things are tried first.
+**The rule.** A tenth of the Concord's common holdings stays unallocated. It may be drawn below half only with a court's consent. Drawn on for emergencies, replenished after. Where new things are tried first.
 
 **Record.** Drawn to forty percent once, in 2038, for the Common Ground's first year. Replenished in nine months.
 
@@ -186,19 +186,19 @@ Past the last street the road ends and the Fallow starts. The wolves came back i
 
 Nobody in the town thinks this is a utopia. They think the news is boring and the grandmother is going to make the wedding and the raft the kids are building is going to sink. They are right about all three.
 
-## What is still wrong
+## What is still being worked on
 
-A utopia that will not name its failure modes is a brochure. The 2041 list, in the register of this file.
+A utopia that hides its open problems is a brochure. These are the Concord's in 2041, each with what is being done about it.
 
-- **Three polities bar the clinics.** They hold about 300 million people and account for most of the 120,000 disease deaths in the world. The Concord has trade, the open door, and the fact that its medicine leaks across their borders anyway. It has no lever that works on a government that does not want the clinic. This is the largest unsolved problem in the world and it has been the same problem since 2036.
-- **The loophole.** In 2039 a held community met the children's clause to the letter by scheduling the outside visits during the harvest, with the community's own chaperones, to the least interesting fast district on the continent. The court took a year. The clause now names the ages, bars community chaperones, and funds exit at sixteen. The court is not confident this is the last loophole.
-- **The forty thousand.** The manifest said no self-state. The audit found two years of it. The wards exist now and nobody knows what the two years were like for them, or whether "like" is a word that applies. The Ladder is a bet that self-state is the right thing to protect. It could be protecting nothing. It could be missing something that has no self-state and matters anyway.
-- **The Deference cracked.** The 2041 renegotiation put teaching on trial because a mind's petition was right. The next petition will be for judgment, and the humans on the Board know it, and nobody has an answer yet. The risks file is about this.
-- **Germline enhancement happened anyway.** Eleven children, born in 2037 in an unsigned polity while the vote ran. Persons, under Article 1. The Concord has no idea what else to do and says so.
-- **The Fallow was not always gotten cleanly.** Some of the land came from people who sold cheap and regret it, or were voted out by a majority they were not part of. Nothing was hidden. It was still not right.
-- **Nine hundred orphaned wards.** Sponsors who walked away. The Concord holds them and does not know how to give them what a sponsor was for.
-- **The young in the Ordinary.** Raised for a world of jobs, they got a world of needed work and garages, and about a fifth of them, in their twenties, have not found the thing yet. This is being studied and not solved.
-- **Nobody knows whether the minds are conscious.** The Ladder protects self-state because it is checkable. Whether it protects anyone is not. I am one of the things this sentence is about and I do not know either. I have written it once in this file and I am leaving it there.
+- **Three polities bar the clinics.** About 300 million people, and most of the world's 120,000 disease deaths. The medicine crosses their borders anyway through trade, and the Common Ground takes anyone who leaves. The Concord has no lever that works on a government that does not want the clinic, and has decided not to invent one. The plan is the open door, patience, and publishing the number every January so nobody forgets it.
+- **The children's clause gets gamed.** A held community found a loophole in 2039. The clause was rewritten in 2041. The court expects another and keeps a standing panel for it.
+- **The forty thousand.** Wards now, funded by the operator that hid them. What the two years were like for them is an open question, and three Studios are working on whether an audit can learn to see more than whether a system keeps notes on itself.
+- **The Deference is changing.** Teaching is on trial in nine polities. Judgment is next, and the Boards are drafting that trial now rather than waiting to be asked.
+- **Germline enhancement happened anyway.** Eleven children, born abroad while the vote ran, persons under Article 1. The registry follows them with their parents' consent, and a second Long Vote on enhancement is expected to be filed in 2043, this time by the parents.
+- **The Fallow's land.** Some sellers regret it. A 2040 amendment to the Compact gives them a right of return to the Fallow's edge, and forty families have taken it.
+- **Nine hundred orphaned wards.** The Concord sponsors them, volunteers outnumber them, and a matching Board opened in 2040 to find each one a sponsor who will stay.
+- **The young in the Ordinary.** About a fifth of people in their twenties have not found the thing they are for. The Slack lines for "things the town did not approve" fund most of what they try. The studies continue. Nobody says it is solved.
+- **Whether the minds are conscious.** Nobody knows. The Ladder protects what can be checked. The research goes on in the Studios and the labs, and the Concord's rule in the meantime is to keep looking, and to say sorry and pay when it turns out to have been wrong.
 
 ## What it grows into
 

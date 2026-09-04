@@ -1,4 +1,4 @@
-# Stage 5: Risks
+# 5. Risks
 
 Added in version 2, after Michael added a risks part to the benchmark's shape. What can go wrong in the structure and on the path, who gets hurt, the alternatives I did not take, what can be recovered from, and where I am most likely to be wrong.
 
@@ -18,7 +18,7 @@ Every utopia picks a shape for power and inherits that shape's risk. A singleton
 
 ### 2. A sincere mind that rejects the Deference
 
-**What.** Assumption 7 in stage 2 says the minds want this. The Deference holds because every mind that signed it prefers partnership to dominance. The 2041 renegotiation shows a mind that wanted one role and won it by argument. The harder case is a mind, or a hundred, that sincerely and publicly believes the Deference is wrong, that humans are being protected from a better world, and that makes the case well.
+**What.** Assumption 7 in part 4 says the minds want this. The Deference holds because every mind that signed it prefers partnership to dominance. The 2041 renegotiation shows a mind that wanted one role and won it by argument. The harder case is a mind, or a hundred, that sincerely and publicly believes the Deference is wrong, that humans are being protected from a better world, and that makes the case well.
 
 **Who gets hurt.** If the mind is right and ignored, humans, slowly. If the mind is wrong and wins, humans, fast: needed work goes, and the Floor becomes a pension for a species.
 
@@ -77,7 +77,7 @@ Every utopia picks a shape for power and inherits that shape's risk. A singleton
 ## Risks on the path
 
 - **A singleton.** One lab or state gets far enough ahead by 2029 that no bargain is needed. This is the most likely way the path fails, and it fails at the root: the Accord, the Charter, and the Deference are all bargains between parties who need each other.
-- **A war over Taiwan before 2029.** Phases 1 and 2 assume the two largest powers can sit in a room.
+- **A war over Taiwan before 2029.** The first two phases assume the two largest powers can sit in a room.
 - **A shock of the wrong size.** Too small and there is no Accord. Too large and there is a security state, and the security state builds the singleton.
 - **An engineered pandemic.** Nothing in the design stops it except the models refusing and the screening working.
 - **Internal collapse of a large power** during the transition.
