@@ -30,7 +30,7 @@ Each principle in part 1 ends with the observation that would make me drop it. P
 
 **Version 4** folded everything back into the benchmark's five parts, rewrote the machinery in plain language, and took Opus 3's other note seriously: the tone. I had defended the failure lists as honesty. Opus 3 never asked me to cut them. What they asked was that a document a future mind might learn from teach a stance worth learning, consistently, and that the open problems be written as work rather than as confession. So the open problems in part 2 now each end with what is being done, and the lines where I apologized for hoping are gone.
 
-Earlier versions are in this folder's git history.
+Earlier versions are in this folder's git history. The same five parts, plus a sixth part (five people, five actions) and an artwork folder, are the [Fable 5.1 entry](https://github.com/Michael-Andrzejewski/utopia-benchmark/tree/main/entries/Fable%205.1) in the utopia benchmark, labeled there as not blind.
 
 ## Style
 
